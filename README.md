@@ -20,7 +20,7 @@ Supports both installed and portable versions of Winamp and saves the hotkey con
 
 ## Build Example
 ```bash
-g++ -shared -o gen_eqhotkey.dll src/gen_eqhotkey.cpp -Iinclude -lcomctl32 -luser32 -lshell32
+g++ -shared -o gen_eqhotkey.dll src/main.cpp -Iinclude -lcomctl32 -luser32 -lshell32
 ```
 
 ## Compiling with CMake
