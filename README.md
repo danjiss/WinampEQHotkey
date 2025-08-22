@@ -29,3 +29,6 @@ g++ -shared -o gen_eqhotkey.dll src/gen_eqhotkey.cpp -Iinclude -lcomctl32 -luser
 3. Run `cmake -B build` to generate the build files.
 4. Run `cmake --build build` to compile the DLL.
 
+## Screenshot:
+
+<img width="288" height="163" alt="immagine" src="https://github.com/user-attachments/assets/88eef343-18a8-41ce-8b4d-c778cc029326" />
