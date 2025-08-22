@@ -12,7 +12,7 @@ Supports both installed and portable versions of Winamp and saves the hotkey con
 - Saves hotkey settings in *%APPDATA%\Winamp\Plugins\gen_eqhotkey.ini* or the path specified in paths.ini.
 
 ## Installation
-1. **Download a precompiled release** or compile the plugin as a DLL using any Win32-compatible C++
+1. **Download a precompiled release** <a href="https://github.com/danjiss/WinampEQHotkey/releases">here</a> or compile the plugin as a DLL using any Win32-compatible C++
 2. Copy *gen_eqhotkey.dll* to the Plugins folder of Winamp.
 3. Open Winamp and enable the plugin in General Purpose Plugins.
 
